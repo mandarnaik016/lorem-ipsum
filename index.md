@@ -1,8 +1,8 @@
-Lorem Ipsum Is A Simple Client Side Jquery Plugin That can Generate Random Paragraph And Images Using Simple Shortcodes.
+Lorem ipsum is a simple client side jquery plugin that can generate random paragraph and images using simple shortcodes.
 
-If You Are Testing A Website Responsiveness Or Just Want To Have A Look Of Your Website After Its Completed, At That Time You can Use Random Paragraph And Images For Testing.
+If you are testing a website responsiveness or just want to have a look of your website after its completed, at that time you can use random paragraph and images for testing.
 
-Lorem Ipsum Plugin Can Be Used At That Time Without Searching For Random Paragraph And Images On Internet.
+Lorem ipsum plugin can be used at that time without searching for random paragraph and images on internet.
 
 ### Installation
 
@@ -11,7 +11,7 @@ Lorem Ipsum Plugin Can Be Used At That Time Without Searching For Random Paragra
 
 ### Usage
 
-Include `lorem_ipsum.j`s Or `lorem_ipsum.min.js` In Your HTML:
+Include `lorem_ipsum.j`s or `lorem_ipsum.min.js` in your HTML:
 
 ```html
 <!-- LOAD FROM DIRECTORY -->
@@ -30,7 +30,8 @@ Include `lorem_ipsum.j`s Or `lorem_ipsum.min.js` In Your HTML:
 <script src="https://rawcdn.githack.com/"></script>
 <script src="https://rawcdn.githack.com/"></script>
  ```
-I Hope You Have Successfully Included File In The HTML Page.
+
+I hope you have successfully included file in the HTML page.
 
 ### Configuration
 
@@ -52,4 +53,4 @@ Image:
 <div class="lorem_ipsum_img"></div>
 ```
 
-You Can Use Above Shortcode In Your Page For Generating Random Paragraphs And Images.
+You can use above shortcode in your page for generating random paragraphs and images.
