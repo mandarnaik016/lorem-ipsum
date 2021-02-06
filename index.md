@@ -1,5 +1,7 @@
 Lorem Ipsum Is A Simple Client Side Jquery Plugin That can Generate Random Paragraph And Images Using Simple Shortcodes.
 
+If You Are Testing A Website Responsiveness Or Just Want To Have A Look Of Your Website After Its Completed, At That Time You can Use Random Paragraph And Images For Testing. Lorem Ipsum Plugin Can Be Used At That Time Without Searching For Random Paragraph And Images On Internet.
+
 ### Installation
 
 -   Github: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
