@@ -34,19 +34,22 @@ I Hope You Have Successfully Included File In The HTML Page.
 
 ### Configuration
 
-1.  Paragraph: 
-    ```html
-    <p class="lorem_ipsum"></p>
-    ```
+Paragraph: 
+
+```html
+<p class="lorem_ipsum"></p>
+```
     
-2.  Paragraph lengthy:
-    ```html
-    <p class="lorem_ipsum_full"></p>
-    ```
+Paragraph lengthy:
     
-3.  Image: 
-    ```html
-    <div class="lorem_ipsum_img"></div>
-    ```
+```html
+<p class="lorem_ipsum_full"></p>
+```
+    
+Image: 
+    
+```html
+<div class="lorem_ipsum_img"></div>
+```
 
 You Can Use Above Shortcode In Your Page For Generating Random Paragraphs And Images.
