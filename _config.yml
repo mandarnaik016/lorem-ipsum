@@ -1,7 +1,7 @@
-theme: jekyll-theme-cayman
 title: Lorem Ipsum
 description: Client Side Random Paragraph And Image Generator
 show_downloads: true
 github:
   zip_url: https://codeload.github.com/mandarnaik016/lorem-ipsum/zip/main
   tar_url: https://codeload.github.com/mandarnaik016/lorem-ipsum/tar.gz/main
+theme: jekyll-theme-cayman
