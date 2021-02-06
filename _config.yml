@@ -1,1 +1,7 @@
 theme: jekyll-theme-cayman
+title: LOREM IPSUM
+description: Client Side Random Paragraph And Image Generator
+show_downloads: true
+github:
+  zip_url: https://codeload.github.com/mdnaik/test-jekyll-theme/zip/main
+  tar_url: https://codeload.github.com/mdnaik/test-jekyll-theme/tar.gz/main
