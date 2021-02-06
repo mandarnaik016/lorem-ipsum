@@ -1,35 +1,41 @@
-You can use the [editor on GitHub](https://github.com/mandarnaik016/lorem-ipsum/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### _Installation_
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+-   Download From Github!
+-   JSdelivr: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
 
-### Markdown
+### _Usage_
 
-`Markdown` is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Include lorem\_ipsum.js Or lorem\_ipsum.min.js In Your HTML:
 
-```markdown
-Syntax highlighted code block
+<!-- LOAD FROM DIRECTORY -->
+<script src="./src/lorem\_ipsum.js"></script>
+<script src="./dist/lorem\_ipsum.min.js"></script>
+<!-- JSDELIVR CDN -->
+<script src="https://cdn.jsdelivr.net/"></script>
+<script src="https://cdn.jsdelivr.net/"></script>
+<!-- STATICALLY CDN -->
+<script src="https://cdn.statically.io/"></script>
+<script src="https://cdn.statically.io/"></script>
+<!-- RAWGITHACK CDN -->
+<script src="https://rawcdn.githack.com/"></script>
+<script src="https://rawcdn.githack.com/"></script>
+ 
 
-# Header 1
-## Header 2
-### Header 3
+### _Configuration_
 
-- Bulleted
-- List
+I Hope You Have Successfully Included Javascript Files In The HTML Page.
 
-1. Numbered
-2. List
+1.  Paragraph:
+    
+    <p class="lorem\_ipsum"></p>
+    
+2.  Paragraph lengthy:
+    
+    <p class="lorem\_ipsum\_full"></p>
+    
+3.  Image:
+    
+    <div class="lorem\_ipsum\_img"></div>
+    
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mandarnaik016/lorem-ipsum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+You Can Use Above Shortcode In Your Page For Generating Random Paragraphs And Images.
