@@ -28,9 +28,9 @@ Include lorem\_ipsum.js Or lorem\_ipsum.min.js In Your HTML:
 
 I Hope You Have Successfully Included Javascript Files In The HTML Page.
 
-1.  Paragraph: ```<p class="lorem_ipsum"></p>```
+1.  Paragraph: ```html <p class="lorem_ipsum"></p>```
     
-2.  Paragraph lengthy: ```p class="lorem_ipsum_full"></p>```
+2.  Paragraph lengthy: ```<p class="lorem_ipsum_full"></p>```
     
 3.  Image: ```<div class="lorem_ipsum_img"></div>```
 
