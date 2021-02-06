@@ -1,3 +1,5 @@
+Lorem Ipsum Is A Simple Client Side Jquery Plugin That can Generate Random Paragraph And Images Using Simple Shortcodes.
+
 ### Installation
 
 -   Github: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
