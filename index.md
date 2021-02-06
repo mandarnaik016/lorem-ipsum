@@ -53,4 +53,4 @@ Image:
 <div class="lorem_ipsum_img"></div>
 ```
 
-You can use above shortcode in your page for generating random paragraphs and images.
+You can use above shortcode for generating random paragraphs and images.
