@@ -1,11 +1,11 @@
 ### Installation
 
--   Download From Github!
+-   Github: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
 -   JSdelivr: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
 
 ### Usage
 
-Include lorem\_ipsum.js Or lorem\_ipsum.min.js In Your HTML:
+Include lorem_ipsum.js Or lorem_ipsum.min.js In Your HTML:
 ```html
 <!-- LOAD FROM DIRECTORY -->
 <script src="./src/lorem_ipsum.js"></script>
@@ -28,7 +28,7 @@ Include lorem\_ipsum.js Or lorem\_ipsum.min.js In Your HTML:
 
 I Hope You Have Successfully Included Javascript Files In The HTML Page.
 
-1.  Paragraph: ```html <p class="lorem_ipsum"></p>```
+1.  Paragraph: ```<p class="lorem_ipsum"></p>```
     
 2.  Paragraph lengthy: ```<p class="lorem_ipsum_full"></p>```
     
