@@ -26,6 +26,15 @@ Include `lorem_ipsum.j`s or `lorem_ipsum.min.js` in your HTML:
 
 <!-- RAWGITHACK CDN -->
 <script src="https://rawcdn.githack.com/mandarnaik016/lorem-ipsum/6d58d78dc9e6ccd410b792940765766d1a21e6eb/cdn/lorem_ipsum.fbcaac204e.min.js"></script>
+
+<!-- RAWGIT CDN -->
+<script src="https://ghcdn.rawgit.org/mandarnaik016/lorem-ipsum/main/cdn/lorem_ipsum.fbcaac204e.min.js"></script>
+
+<!-- GITCDN CDN -->
+<script src="https://gitcdn.link/repo/mandarnaik016/lorem-ipsum/main/cdn/lorem_ipsum.fbcaac204e.min.js"></script>
+
+<!-- COMBINATRONICS CDN -->
+<script src="https://combinatronics.com/mandarnaik016/lorem-ipsum/main/cdn/lorem_ipsum.fbcaac204e.min.js"></script>
 ```
 
 I hope you have successfully included file in the HTML page.
