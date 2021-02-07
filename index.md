@@ -6,12 +6,12 @@ Lorem ipsum plugin can be used at that time without searching for random paragra
 
 ### Installation
 
--   Github: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
--   JSdelivr: [https://www.jsdelivr.com/](https://www.jsdelivr.com/)
+-   Github: [https://github.com/mandarnaik016/lorem-ipsum](https://github.com/mandarnaik016/lorem-ipsum)
+-   JSdelivr: [https://www.jsdelivr.com/package/gh/mandarnaik016/lorem-ipsum](https://www.jsdelivr.com/package/gh/mandarnaik016/lorem-ipsum)
 
 ### Usage
 
-Include `lorem_ipsum.j`s or `lorem_ipsum.min.js` in your HTML:
+Include `lorem_ipsum.js` or `lorem_ipsum.min.js` in your HTML:
 
 ```html
 <!-- LOAD FROM DIRECTORY -->
