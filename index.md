@@ -4,6 +4,10 @@ If you are testing a website responsiveness or just want to have a look of your 
 
 Lorem ipsum plugin can be used at that time without searching for random paragraph and images on internet.
 
+### Demo
+
+- Codepen: [https://codepen.io/MDnaik/pen/QWGNBxN](https://codepen.io/MDnaik/pen/QWGNBxN)
+
 ### Installation
 
 -   Github: [https://github.com/mandarnaik016/lorem-ipsum](https://github.com/mandarnaik016/lorem-ipsum)
